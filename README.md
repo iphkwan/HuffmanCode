@@ -1,4 +1,4 @@
 HuffmanCode
 ===========
 
-The homework of data structure class.
+This is my homework of data structure class.
